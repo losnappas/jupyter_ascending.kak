@@ -1,0 +1,6 @@
+jupyter_client
+ipykernel
+cython
+# Need this specific version: https://github.com/imbue-ai/jupyter_ascending/issues/64
+git+https://github.com/roy-ht/editdistance.git@v0.6.2#egg=editdistance
+jupyter_ascending
